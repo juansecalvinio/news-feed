@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/proyecto-news-feed/static/css/main.35ed09e4.chunk.css",
+    "main.js": "/proyecto-news-feed/static/js/main.a474e5e3.chunk.js",
+    "main.js.map": "/proyecto-news-feed/static/js/main.a474e5e3.chunk.js.map",
+    "runtime~main.js": "/proyecto-news-feed/static/js/runtime~main.4f26c52b.js",
+    "runtime~main.js.map": "/proyecto-news-feed/static/js/runtime~main.4f26c52b.js.map",
+    "static/js/2.e5aa889e.chunk.js": "/proyecto-news-feed/static/js/2.e5aa889e.chunk.js",
+    "static/js/2.e5aa889e.chunk.js.map": "/proyecto-news-feed/static/js/2.e5aa889e.chunk.js.map",
+    "index.html": "/proyecto-news-feed/index.html",
+    "precache-manifest.02a75ecc7261432018a24b01314704dd.js": "/proyecto-news-feed/precache-manifest.02a75ecc7261432018a24b01314704dd.js",
+    "service-worker.js": "/proyecto-news-feed/service-worker.js",
+    "static/css/main.35ed09e4.chunk.css.map": "/proyecto-news-feed/static/css/main.35ed09e4.chunk.css.map"
+  }
+}
